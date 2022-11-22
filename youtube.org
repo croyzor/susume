@@ -2,9 +2,9 @@
 
 私はイギリス人でユーチューブが大好きです。これらは、私のお勧めのチャンネルです。どうぞご覧ください。
 
-* コメディ
-*** Adrian Bliss
-*** College Humor
+# * コメディ
+# *** Adrian Bliss
+# *** College Humor
 
 * ビデオエセー（動画の文章）
 *** Jenny Nicholson
@@ -31,13 +31,13 @@ Philosophy TubeのAbigailさんは大学時で哲学を勉強しました。そ�
 *** Michael Reeves
  バカに何かを作ろうとしいて、めっちゃ面白い動画です。例えば、私のススメな動画は「素人が手術のロボット作る」です。
 
-*** Ben Eater
-*** Look Mum No Computer
  オススメな動画：[[https://youtu.be/A_BlNA7bBxo][I Built a Surgery Robot]]
+# *** Ben Eater
+# *** Look Mum No Computer
 
-* 言語について
-*** Julingo
-*** Langfocus
+# * 言語について
+# *** Julingo
+# *** Langfocus
 
 * 色々
 *** Mothcub

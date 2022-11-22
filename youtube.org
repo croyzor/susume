@@ -1,4 +1,4 @@
-#+TITLE: ススメなユーチューブのチャンエル
+#+TITLE: オススメなユーチューブのチャンエル
 
 私はイギリス人でユーチューブが大好きです。これらは、私のお勧めのチャンネルです。どうぞご覧ください。
 
@@ -14,7 +14,7 @@
 *** HBomberguy
 *** Sarah Z
 *** Jacob Geller
- 彼は世界の一番為になる話をする能力持ってます。動画は全部素晴らしいと思います
+ 彼はもしかしたら世界で一番の話をする能力持ってます。動画は全部素晴らしいと思います
 
  ススメな動画：[[https://www.youtube.com/watch?v=Pp2wbyLoEtM][Fear of Cold]]か[[https://www.youtube.com/watch?v=JMkrrjKf5AE][Head Transplants and the Non-Existance of the Soul]]
 *** Philosophy Tube
